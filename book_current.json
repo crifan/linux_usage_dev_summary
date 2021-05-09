@@ -1,0 +1,22 @@
+{
+  "title": "Linux使用和开发心得",
+  "description": "介绍Linux系统的基本概念，以及常用命令，开发相关的一些心得。",
+  "pluginsConfig": {
+    "autocover": {
+      "title": "Gitbook演示"
+    },
+    "github-buttons": {
+      "buttons": [
+        {
+          "repo": "linux_usage_dev_summary"
+        }
+      ]
+    },
+    "sitemap-general": {
+      "prefix": "https://book.crifan.com/gitbook/linux_usage_dev_summary/website/"
+    },
+    "toolbar-button": {
+      "url": "http://book.crifan.com/books/linux_usage_dev_summary/pdf/linux_usage_dev_summary.pdf"
+    }
+  }
+}
