@@ -114,5 +114,7 @@
   * [基础开发工具](dev_summary/basic_dev_tools.md)
   * [数据恢复](dev_summary/data_restore.md)
   * [模拟Linux系统](dev_summary/emulate_linux.md)
+  * [常见问题](dev_summary/common_issue/README.md)
+    * [安装新版后使用仍是旧版](dev_summary/common_issue/installed_new_still_old.md)
 * [附录](appendix/README.md)
   * [参考资料](appendix/reference.md)
